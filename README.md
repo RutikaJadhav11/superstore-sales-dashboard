@@ -68,12 +68,8 @@ Interactive Power BI dashboard analyzing sales, profitability, products, regions
 - Dashboard screenshots
 - README documentation
 
+
 ## Skills Demonstrated
 
-- Data Cleaning
-- Data Modeling
-- DAX Calculations
-- KPI Development
-- Dashboard Design
-- Data Visualization
-- Business Intelligence Reporting
+`Data Cleaning` &nbsp; `Data Modeling` &nbsp; `DAX Calculations` &nbsp; `KPI Development`  
+`Dashboard Design` &nbsp; `Data Visualization` &nbsp; `Business Intelligence Reporting`
